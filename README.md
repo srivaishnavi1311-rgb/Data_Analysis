@@ -43,6 +43,7 @@ Most orders were successfully delivered.
 Maharashtra recorded the highest sales.
 Amazon was the leading sales channel.
 Interactive filters enable quick and flexible analysis.
+Dashboard  https://github.com/srivaishnavi1311-rgb/Data_Analysis/blob/main/Vrinda%20Store%20After%20Changes.png
 Skills Demonstrated
 Data Cleaning
 Data Analysis
